@@ -1,0 +1,13 @@
+{
+    "name": "com.sundog.template.my-package",
+    "displayName": "Display Name",
+    "version": "1.0.0",
+    "description": "An demo package.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/SundogGame/unity-package-template"
+    },
+    "author": "Pearce Liang <liang.pearce@gmail.com>",
+    "unity": "2018.3",
+    "type": "library"
+  }

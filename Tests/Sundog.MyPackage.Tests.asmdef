@@ -1,0 +1,14 @@
+{
+    "name": "DUCK.MyPackage.Tests",
+    "references": [
+        "Sundog.MyPackage"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
