@@ -6,7 +6,7 @@ This will be kept up to date, with the correct standards for directory structure
 
 ## How to use it
 
-Edit this readme to the needs of your project, but keep the bottom section explaining DUCK
+Edit this readme to the needs of your project, but keep the bottom section explaining
 
 In the repo there are 3 directories. Scripts, Docs, Tests.
 
